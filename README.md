@@ -18,8 +18,6 @@ It allows users to submit their details and message while ensuring all inputs me
 ## 🖥️ Demo
 ![demo](./images/demo.png)
 
-## 🔗 Live Demo
-- Live site: https://your-live-site-url.com
 - Repository: https://github.com/yourusername/contact-form
 
 ---
@@ -63,5 +61,5 @@ Each input field is validated before submission:
 ---
 
 ## 👤 Author
-- GitHub: https://github.com/yourusername
-- Frontend Mentor: https://www.frontendmentor.io/profile/yourusername
+- GitHub: https://github.com/MajloszIS
+- Frontend Mentor: https://www.frontendmentor.io/profile/MajloszIS
